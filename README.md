@@ -1,10 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vivek Bhos</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<!-- Banner -->
+![Banner](https://via.placeholder.com/1500x300)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bhos1242&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+<!-- Introduction -->
+## Hi there 👋, I'm Vivek Bhos
+A passionate Full Stack developer from India 🇮🇳
 
+<!-- Social Media Icons -->
+### Connect with me:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35">](https://linkedin.com/in/https://www.linkedin.com/in/vivekbhos/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35">](https://instagram.com/vivekbhos_06_07)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="35" height="35">](https://www.codechef.com/users/vivek1242)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35" height="35">](https://www.hackerrank.com/bhosvivek123)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35">](https://www.leetcode.com/bhos1242)
+
+<!-- GitHub Stats -->
+## GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhos1242&show_icons=true&theme=dark" alt="Vivek Bhos's GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhos1242&layout=compact&theme=dark" alt="Top Languages" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhos1242" alt="bhos1242" /></a> </p>
 
