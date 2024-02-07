@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Bhos</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhos1242&label=Profile%20views&color=0e75b6&style=flat" alt="bhos1242" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bhos1242&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhos1242" alt="bhos1242" /></a> </p>
 
