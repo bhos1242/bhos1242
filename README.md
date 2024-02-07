@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://via.placeholder.com/1500x300](https://![wp8725091-mongodb-wallpapers](https://github.com/bhos1242/bhos1242/assets/92811935/0d7b1a91-71d9-4dda-af60-80d5eb38e3f6)
+![Banner]([[https://via.placeholder.com/1500x300]](https://github.com/bhos1242/bhos1242/assets/92811935/0d7b1a91-71d9-4dda-af60-80d5eb38e3f6))
 wallpapercave.com/wp/wp8725091.jpg))
 
 <!-- Introduction -->
