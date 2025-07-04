@@ -9,6 +9,14 @@
 
 ---
 
+### 🔎 Profile Views
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=bhos1242&label=Profile%20Views&color=1&icon=5&pretty=false" alt="Profile View Counter" />
+  </a>
+</p>
+
 ### 🚀 About Me
 
 - 🔭 Currently building: **[My-अभ्यासिका](https://www.abhyasika.online)** — a smart study room management platform
